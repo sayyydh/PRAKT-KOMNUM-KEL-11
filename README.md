@@ -74,6 +74,14 @@ if akar:
 
 
 
+
+
+
+
+
+
+
+
 ### TUGAS PRAKTIKUM #1 (PPT 3)
 <img width="815" height="320" alt="image" src="https://github.com/user-attachments/assets/466a71f3-5716-4b5b-8ea3-c4fddd46a9e7" />
 
