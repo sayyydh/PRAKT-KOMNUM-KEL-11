@@ -1,9 +1,8 @@
 # PRAKTIKUM-KOMNUM-KEL-11
 
-### PRAKTIKUM 1 (PPT 2)
 <img width="812" height="306" alt="image" src="https://github.com/user-attachments/assets/4e713a00-f6dc-48c1-b652-de0edd5300b5" />
 
-
+### PRAKTIKUM 1 (PPT 2)
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -66,7 +65,6 @@ if akar:
 
 - Output
 <img width="728" height="282" alt="image" src="https://github.com/user-attachments/assets/ee267278-f45e-42fe-adf5-bf8cabbb5fc7" />
-
 
 - Grafik Fungsi
 <img width="640" height="480" alt="WhatsApp Image 2026-04-29 at 16 12 21" src="https://github.com/user-attachments/assets/dcca1b6c-3314-4a6b-af80-8f7f0b5dd5f4" />
