@@ -70,11 +70,20 @@ def regula_falsi_method(func, a, b, tol=1e-5, max_iter=100):
 - Grafik Fungsi
 <img width="640" height="480" alt="WhatsApp Image 2026-04-29 at 16 12 21" src="https://github.com/user-attachments/assets/dcca1b6c-3314-4a6b-af80-8f7f0b5dd5f4" />
 
+
+
+
+
+
+
+### TUGAS PRAKTIKUM #1 (PPT 3)
+<img width="815" height="320" alt="image" src="https://github.com/user-attachments/assets/466a71f3-5716-4b5b-8ea3-c4fddd46a9e7" />
+
 - Kode Program
   ```
   import sympy as sp
 
-def cetak_header():
+    def cetak_header():
     print("=" * 65)
     print("       PRAKTIKUM KOMNUM: METODE SECANT PENCARI AKAR       ")
     print("=" * 65)
@@ -84,7 +93,7 @@ def cetak_header():
     print(" - Trigonometri : gunakan sin(x), cos(x)")
     print("-" * 65)
 
-def metode_secant(str_fungsi, x_min1, x_i, toleransi, maks_iter=100):
+    def metode_secant(str_fungsi, x_min1, x_i, toleransi, maks_iter=100):
     x = sp.Symbol('x')
     
     try:
@@ -130,7 +139,7 @@ def metode_secant(str_fungsi, x_min1, x_i, toleransi, maks_iter=100):
     print(f"\n[-] Batas maksimum iterasi ({maks_iter}) tercapai tanpa konvergensi sempurna.")
     print(f"    Taksiran terakhir: {x_i:.8f}")
 
-if __name__ == "__main__":
+    if __name__ == "__main__":
     cetak_header()
     
     try:
@@ -142,22 +151,6 @@ if __name__ == "__main__":
         metode_secant(input_fungsi, input_x_min1, input_x_i, input_tol)
     except ValueError:
         print("\n[!] ERROR: Input tebakan/toleransi harus berupa angka!")
-        ```
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-### TUGAS PRAKTIKUM #1 (PPT 3)
-<img width="815" height="320" alt="image" src="https://github.com/user-attachments/assets/466a71f3-5716-4b5b-8ea3-c4fddd46a9e7" />
-
-
+  ```
+        
+  
