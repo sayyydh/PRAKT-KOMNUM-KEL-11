@@ -152,5 +152,9 @@ def regula_falsi_method(func, a, b, tol=1e-5, max_iter=100):
     except ValueError:
         print("\n[!] ERROR: Input tebakan/toleransi harus berupa angka!")
   ```
+
+  - Output
+  <img width="829" height="595" alt="WhatsApp Image 2026-04-30 at 00 59 31" src="https://github.com/user-attachments/assets/1f35bde3-d410-4452-998a-f78a6afde85b" />
+
         
   
