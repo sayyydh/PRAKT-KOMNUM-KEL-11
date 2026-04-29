@@ -1,8 +1,9 @@
 # PRAKTIKUM-KOMNUM-KEL-11
 
+### PRAKTIKUM 1 (PPT 2)
 <img width="812" height="306" alt="image" src="https://github.com/user-attachments/assets/4e713a00-f6dc-48c1-b652-de0edd5300b5" />
 
-### PRAKTIKUM 1 (PPT 2)
+- Kode Program
 ```
 import numpy as np
 import matplotlib.pyplot as plt
