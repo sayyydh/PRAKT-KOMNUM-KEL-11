@@ -37,7 +37,7 @@ def regula_falsi_method(func, a, b, tol=1e-5, max_iter=100):
 
     return c
 
-def plot_function(func, a, b, root):
+    def plot_function(func, a, b, root):
     x_vals = np.linspace(a - 1, b + 1, 400)
     y_vals = func(x_vals)
 
@@ -52,15 +52,15 @@ def plot_function(func, a, b, root):
     plt.grid()
     plt.show()
 
-def f(x):
+    def f(x):
     return np.exp(-x) - x
 
-a = 0
-b = 1
+    a = 0
+    b = 1
 
-akar = regula_falsi_method(f, a, b)
+    akar = regula_falsi_method(f, a, b)
 
-if akar:
+    if akar:
     plot_function(f, a, b, akar)
 ```
 
