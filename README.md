@@ -69,3 +69,12 @@ if akar:
 
 - Grafik Fungsi
 <img width="640" height="480" alt="WhatsApp Image 2026-04-29 at 16 12 21" src="https://github.com/user-attachments/assets/dcca1b6c-3314-4a6b-af80-8f7f0b5dd5f4" />
+
+
+
+
+
+### TUGAS PRAKTIKUM #1 (PPT 3)
+<img width="815" height="320" alt="image" src="https://github.com/user-attachments/assets/466a71f3-5716-4b5b-8ea3-c4fddd46a9e7" />
+
+
