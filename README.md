@@ -65,25 +65,7 @@ if akar:
 ```
 
 - Output
-```
-Iterasi    | a          | b          | c (akar)   | f(c)           
+<img width="728" height="282" alt="image" src="https://github.com/user-attachments/assets/ee267278-f45e-42fe-adf5-bf8cabbb5fc7" />
 
------------------------------------------------------------------
-
-1          | 0.00000    | 1.00000    | 0.61270    | -0.07081       
-
-2          | 0.00000    | 0.61270    | 0.57218    | -0.00789       
-
-3          | 0.00000    | 0.57218    | 0.56770    | -0.00088       
-
-4          | 0.00000    | 0.56770    | 0.56721    | -0.00010       
-
-5          | 0.00000    | 0.56721    | 0.56715    | -0.00001       
-
-6          | 0.00000    | 0.56715    | 0.56714    | -0.00000       
-
------------------------------------------------------------------
-Akar ditemukan pada x = 0.56714 setelah 6 iterasi.
-```
-
+- Grafik Fungsi
 <img width="640" height="480" alt="WhatsApp Image 2026-04-29 at 16 12 21" src="https://github.com/user-attachments/assets/dcca1b6c-3314-4a6b-af80-8f7f0b5dd5f4" />
