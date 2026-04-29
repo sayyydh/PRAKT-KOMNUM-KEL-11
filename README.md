@@ -81,6 +81,6 @@ Iterasi    | a          | b          | c (akar)   | f(c)
 
 -----------------------------------------------------------------
 Akar ditemukan pada x = 0.56714 setelah 6 iterasi.
+```
 
 <img width="640" height="480" alt="WhatsApp Image 2026-04-29 at 16 12 21" src="https://github.com/user-attachments/assets/dcca1b6c-3314-4a6b-af80-8f7f0b5dd5f4" />
-```
